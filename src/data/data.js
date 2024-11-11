@@ -1,0 +1,27 @@
+export const navlinkdata=[
+  {
+    _id:1001,
+    title:"Home",
+    link:"home",
+ },
+ {
+  _id:1002,
+  title:"Features",
+  link:"ourValue",
+},
+{
+  _id:1003,
+  title:"Project",
+  link:"getStarted",
+},
+{
+  _id:1003,
+  title:"Project",
+  link:"contact",
+},
+{
+  _id:1005,
+  title:"Contact",
+  link:"contactUs",
+},
+];
